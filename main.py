@@ -1,14 +1,6 @@
 print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
-print("Simple Calculator in Python")
+
+print("Finally fixed!")
 
 print("Select operation.")
 print("1.Add")
